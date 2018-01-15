@@ -1,2 +1,2 @@
 # renoise_osc
-OSC controller for Renoise
+Android OSC controller for Renoise
